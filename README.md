@@ -1,1 +1,2 @@
 # odin-recipes
+Creating a simple recipe website, follwoing the instructions from The Odin Project. In this project, I will be using the basic skills I have learned, such as utilising the Command Line Interface, using Git, and basic HTML syntax.
