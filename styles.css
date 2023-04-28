@@ -1,0 +1,27 @@
+html {
+    background-color: #FFF8D6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    background-color: #617A55;
+}
+
+h3 {
+    text-align: center;
+    background-color: #617A55;
+}
+
+ul {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
